@@ -42,7 +42,7 @@ def get_grid(model):
 
         else:  # Street
             grid[x][y] = 0
-
+ 
     return grid
 
 
